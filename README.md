@@ -16,8 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlugelSchwarz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlugelSchwarz)](https://github.com/anuraghazra/github-readme-stats)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
+![snake animation](https://github.com/FlugelSchwarz/FlugelSchwarz/blob/output/github-contribution-grid-snake2.svg)
