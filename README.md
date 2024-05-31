@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlugelSchwarz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlugelSchwarz)](https://github.com/anuraghazra/github-readme-stats)
-
-![snake animation](https://github.com/FlugelSchwarz/FlugelSchwarz/blob/output/github-contribution-grid-snake2.svg)
